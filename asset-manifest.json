@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VeroPortfolio/static/css/main.0f55edbb.css",
+    "main.js": "/VeroPortfolio/static/js/main.c5ba8cb5.js",
+    "static/media/revicons.eot": "/VeroPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/VeroPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/VeroPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/VeroPortfolio/index.html",
+    "main.0f55edbb.css.map": "/VeroPortfolio/static/css/main.0f55edbb.css.map",
+    "main.c5ba8cb5.js.map": "/VeroPortfolio/static/js/main.c5ba8cb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f55edbb.css",
+    "static/js/main.c5ba8cb5.js"
+  ]
+}
