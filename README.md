@@ -1,6 +1,6 @@
 # Getting Started with your SHPortfolio
 
-Hi there! Welcome to SHPE UF's first SHPortfolio event. To get started please do the following:
+Hola! Welcome to SHPE UF's first SHPortfolio event. To get started please do the following:
 
 1. Follow the instructions [here](https://code.visualstudio.com/download) to download VSCode. VSCode is the text editor we will be coding on!
 2. Create a Github account if you do not have one [here](https://github.com/join)!
